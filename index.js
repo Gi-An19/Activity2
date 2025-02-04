@@ -34,7 +34,7 @@ inquirer.prompt([
         if (err) {
             console.error('Error writing to file:', err);
         } else {
-            console.log('Names saved to myhero.txt ✅');
+            console.log('Names saved to myhero.txt ');
         }
     });
 }).catch((error) => {
