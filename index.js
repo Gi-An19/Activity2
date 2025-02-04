@@ -19,7 +19,7 @@ inquirer.prompt([
 
     console.log(`Hello ${GIAN}`);
     console.log(`Your villain name will be ${SN}`);
-    console.log(`Your superhero name will be ${SHN}`);
+    console.log(`and your superhero name will be ${SHN}`);
     console.log("QR codes are generated");
     console.log("Text file updated");
 
